@@ -6,7 +6,7 @@ export const config: DataSourceOptions = {
   // host: "localhost",
   // port: 5432,
   // username: "postgres",
-  // password: "Webdevwithdiaby@2021",
+  // password: "******************",
   // database: "nkasugu",
   type: "postgres",
   url: process.env.DATABASE_URL as string,
