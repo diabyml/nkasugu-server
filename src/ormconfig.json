@@ -4,7 +4,7 @@
   "host": "localhost",
   "port": 5432,
   "username": "postgres",
-  "password": "Webdevwithdiaby@2021",
+  "password": "*************",
   "database": "nkasugu",
   "entities": ["dist/src/entities/*.js"],
   "migrations": ["dist/src/migration/*.js"]
